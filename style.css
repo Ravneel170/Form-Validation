@@ -1,0 +1,81 @@
+body{ 
+  background-color:orange;
+}
+
+*{
+  font-family: sans-serif;
+}
+
+
+.box {
+
+  border: 2px solid black;
+
+  height: 400px;
+
+  width: 500px;
+
+  margin: 25vh auto;
+
+  background-color: white;
+}
+
+.form {
+
+  display: flex;
+
+  flex-direction: column;
+
+  padding: 10px;
+
+  justify-content: space-between;
+
+}
+
+#btn {
+
+  width: 80%;
+
+  padding: 10px;
+
+  margin: 10px auto auto 50px;
+
+  background-color: blue;
+
+  border-radius: 5px;
+
+  font-size: medium;
+
+}
+
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid black;
+ width: fit-content;
+ 
+ margin : 10px auto;
+}
+
+
+.mine {
+
+   height: 25px;
+}
+
+
+span {
+  color: red;
+}
+
+
+.error-border {
+
+  border: 2px solid red;
+}
+
+
+.success-border {
+
+  border: 2px solid green;
+}
