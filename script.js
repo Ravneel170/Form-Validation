@@ -111,7 +111,7 @@ function validate () {
 
        element.classList.add('success-border');
 
-       element.classList.remove('erro-border');
+       element.classList.remove('error-border');
   }
 
 
