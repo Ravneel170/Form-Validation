@@ -11,7 +11,7 @@ body{
 
   border: 2px solid black;
 
-  height: 400px;
+  min-height: 68vh;
 
   width: 500px;
 
@@ -28,8 +28,6 @@ body{
 
   padding: 10px;
 
-  justify-content: space-between;
-
 }
 
 #btn {
@@ -38,13 +36,14 @@ body{
 
   padding: 10px;
 
-  margin: 10px auto auto 50px;
+  margin: 40px auto auto 50px;
 
   background-color: blue;
 
   border-radius: 5px;
 
   font-size: medium;
+  align-self: center;
 
 }
 
